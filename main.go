@@ -2,6 +2,5 @@
 
 package potcore
 
-func main() {
 
-}
+// Main

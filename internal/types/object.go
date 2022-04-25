@@ -1,7 +1,5 @@
 // Created by EldersJavas(EldersJavas&gmail.com)
 
-package _type
+package types
 
-func main() {
-	$END$
-}
+// TODO: add types
